@@ -1,4 +1,4 @@
-## Certainly! Let's explore the Linux command line interface (CLI) or **terminal**.
+# Certainly! Let's explore the Linux command line interface (CLI) or **terminal**.
 
 1. **What Is the Terminal?**:
    - The terminal is a **text-based interface** that allows you to interact with your computer using commands.
@@ -23,9 +23,7 @@
    - Some tasks require administrator privileges. To execute commands as the superuser (root), prefix them with `sudo`.
    - Be cautious with superuser access—it's powerful!
 
-Remember, the terminal is your gateway to the heart of your Linux system. Embrace it, and you'll become a command-line ninja! 🚀👾
 
-Source: Conversation with Copilot, 7/9/2024
-[(1) The Linux command line for beginners | Ubuntu.] (https://ubuntu.com/tutorials/command-line-for-beginners.]
-[(2) What is Terminal in Linux? [The Ultimate Guide] ]- LinuxSimply. (https://linuxsimply.com/what-is-terminal-in-linux/.)
-[(3) Ubuntu Terminal: Beginner's Guide to Command Line Interface - FOSS Linux.] (https://www.fosslinux.com/101137/the-ubuntu-terminal-getting-started-with-the-command-line-interface.htm.)
+- [(1) The Linux command line for beginners | Ubuntu.](https://ubuntu.com/tutorials/command-line-for-beginners.)
+- [(2) What is Terminal in Linux? The Ultimate Guide LinuxSimply.](https://linuxsimply.com/what-is-terminal-in-linux/.)
+- [(3) Ubuntu Terminal Beginner's Guide to Command Line Interface - FOSS Linux.](https://www.fosslinux.com/101137/the-ubuntu-terminal-getting-started-with-the-command-line-interface.htm.)

@@ -1,4 +1,4 @@
-## Certainly! Let's dive into the Linux operating system structure. 🐧
+#
 
 1. **Root Directory (`/`)**:
    - The root directory is the starting point for all files and directories in Linux. It's analogous to a plant's root system. Everything else is organized under this root.
@@ -21,9 +21,7 @@
    - Examples include password files and networking configurations.
    - When you need to tweak system settings (like changing the hostname), you'll find the relevant files here¹.
 
-Remember, Linux is like a well-organized toolbox—each directory serves a specific purpose, contributing to the overall functionality of the system!
 
-Source: Conversation with Copilot, 7/9/2024
 - [(1) Linux Directory Structure Explained for Beginners.](https://linuxhandbook.com/linux-directory-structure/.)
 - [(2) What is Linux? {Understanding Linux Operating System} - phoenixNAP.](https://phoenixnap.com/kb/what-is-linux.)
 - [(3) Architecture of Linux Operating System - LinuxSimply.](https://linuxsimply.com/linux-basics/introduction/architecture-of-linux-operating-system/.)

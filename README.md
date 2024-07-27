@@ -62,4 +62,4 @@ This blog is built using Hugo, a fast and modern static site generator. It's wri
 [Provide a link to a GitHub CLI cheatsheet or list some common GitHub CLI commands that are useful for your project.]
 ```
 
-Please replace the placeholders with the actual content. The installation and usage instructions may vary depending on the technology stack you're using.
+## Please replace the placeholders with the actual content. The installation and usage instructions may vary depending on the technology stack you're using.

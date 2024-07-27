@@ -1,0 +1,50 @@
+## Linux Containers (LXC) is a powerful tool for creating and managing system or application containers on Linux systems. It provides a userspace interface for the Linux kernel's containment features, allowing you to easily create and manage containers³.
+
+Here are some key points about using LXC on Linux Mint:
+
+1. **Installation**: You can install LXC on Linux Mint using the package manager. Open a terminal and run:
+   ```bash
+   sudo apt-get install lxc
+   ```
+
+2. **Creating Containers**: To create a new container, you can use the `lxc-create` command. For example:
+   ```bash
+   sudo lxc-create -n my-container -t download
+   ```
+   This command will prompt you to select a distribution and release for your container.
+
+3. **Starting and Stopping Containers**: You can start a container with:
+   ```bash
+   sudo lxc-start -n my-container
+   ```
+   And stop it with:
+   ```bash
+   sudo lxc-stop -n my-container
+   ```
+
+4. **Listing Containers**: To list all available containers, use:
+   ```bash
+   sudo lxc-ls
+   ```
+
+5. **Accessing Containers**: To access a running container, you can use:
+   ```bash
+   sudo lxc-attach -n my-container
+   ```
+
+6. **Managing Containers**: You can get detailed information about a container with:
+   ```bash
+   sudo lxc-info -n my-container
+   ```
+
+LXC is a great way to experiment with different Linux distributions and configurations without needing separate physical or virtual machines¹²⁵.
+
+Is there something specific you want to do with LXC on Linux Mint?
+
+Source: Conversation with Copilot, 7/19/2024
+- [(1) Linux Containers - LXC - Introduction.](https://linuxcontainers.org/lxc/.)
+- [(2) Linux Containers - LXC - Getting started.](https://linuxcontainers.org/lxc/getting-started/.)
+- [(3) How to Use Linux Containers With LXC and LXD - freeCodeCamp.org.](https://www.freecodecamp.org/news/linux-containers-lxc-lxd/.)
+- [(4) How to Manage Linux Containers using LXC - GeeksforGeeks.](https://www.geeksforgeeks.org/how-to-manage-linux-containers-using-lxc/.)
+- [(5) Linux Mint - Community.](https://community.linuxmint.com/software/view/lxc-utils.)
+- [(6) en.wikipedia.org.](https://en.wikipedia.org/wiki/LXC.)
