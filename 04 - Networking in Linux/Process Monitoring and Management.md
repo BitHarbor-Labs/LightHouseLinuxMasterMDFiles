@@ -16,12 +16,8 @@
    - Use PuTTY or any SSH client to connect: `ssh username@192.168.1.20`.
    - Enter your password when prompted¹.
 
-Feel free to ask if you need further assistance! 😊🚀
-
-Source: Conversation with Copilot, 7/12/2024
 - [(1) How To Enable SSH in Linux Mint - RootUsers.](https://www.rootusers.com/enable-ssh-linux-mint/.)
 - [(2) How-to Guide Linux Networking with SSH - Linux Mint Forums.](https://forums.linuxmint.com/viewtopic.php?t=13695.)
 - [(3) Linux Mint - Community.]( https://community.linuxmint.com/tutorial/view/83.)
 - [(4) How to Install and Enable SSH on Linux Mint 21 – LinuxWays.](https://linuxways.net/mint/install-enable-ssh-linux-mint-21/.)
 - [(5) Linux Mint - Community.](https://community.linuxmint.com/tutorial/view/244.)
-- [(6) en.wikipedia.org.](https://en.wikipedia.org/wiki/Linux_Mint.)
